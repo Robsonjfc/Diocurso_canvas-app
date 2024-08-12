@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Embedded Canvas App</title>
+    <style>
+        /* Estilos para o iframe */
+        .embedded-app {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <iframe class="embedded-app" src="<https://apps.powerapps.com/play/e/e78d8c37-35b4-e6ee-9ece-e298ece3f057/a/54b009d5-309e-4dce-8386-c850ba0b5a41?tenantId=a8a0deaa-5d53-4b30-a3a1-a2b4c4dc72a5&sourcetime=1722848291826>" allowfullscreen></iframe>
+</body>
+</html>
